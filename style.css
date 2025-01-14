@@ -233,6 +233,10 @@ section {
     }
 
     .name {
-        font-size: 32px;
+        font-size: 40px;
+    }
+
+    .quote{
+        color: White;
     }
 }
