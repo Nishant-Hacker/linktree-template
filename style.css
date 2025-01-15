@@ -239,4 +239,7 @@ section {
     .quote{
         color: White;
     }
+    .logos{
+        width: auto;
+    }
 }
